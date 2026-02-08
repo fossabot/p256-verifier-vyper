@@ -2,6 +2,7 @@
 
 [![🕵️‍♂️ Test smart contracts](https://github.com/pcaversaccio/p256-verifier-vyper/actions/workflows/test.yml/badge.svg)](https://github.com/pcaversaccio/p256-verifier-vyper/actions/workflows/test.yml)
 [![License: AGPL-3.0-only](https://img.shields.io/badge/License-AGPL--3.0--only-blue)](https://www.gnu.org/licenses/agpl-3.0)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fp256-verifier-vyper.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fp256-verifier-vyper?ref=badge_shield)
 
 <img src=https://github-production-user-asset-6210df.s3.amazonaws.com/25297591/275336509-62178250-58e7-4c27-9c1e-1f92f401dbc0.png width="650"/>
 
@@ -24,3 +25,7 @@
 - Daimo's Blog: [The First Audited P256Verifier](https://blog.daimo.com/p256verifier)
 - Daimo's Website: [p256.eth.limo](https://p256.eth.limo)
 - Daimo's `P256Verifier` Deployment: [`0xc2b78104907F722DABAc4C69f826a522B2754De4`](https://etherscan.io/address/0xc2b78104907F722DABAc4C69f826a522B2754De4)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fp256-verifier-vyper.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fp256-verifier-vyper?ref=badge_large)
